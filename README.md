@@ -1,7 +1,8 @@
 # Leaflet Challenge  
 <font size="3">**Module 15 Challenge Assignment**  
 **Contributor:** Cassia Yoon  
-**Github link:** https://github.com/CassiaY/leaflet-challenge
+**Github link:** https://github.com/CassiaY/leaflet-challenge  
+**Dashboard link:** https://cassiay.github.io/leaflet-challenge/
 </font>  
 
 ## Project Background  
@@ -14,6 +15,9 @@ The data markers reflect the magnitude of the earthquake by their size and the d
 ![screenshot of map](/readme_imgs/image.png).  
 The popups provide additional information about the earthquake when its associated marker is clicked.  
 ![screenshot of popup](/readme_imgs/image2.png).  
+There was an attempt at a legend. However, the legend is not showing the color scale.  
+![screenshot of incomplete legend](/readme_imgs/image3.png).  
+Finally, the map was made accessible online by hosting it via github pages. Go to the [dashboard](https://cassiay.github.io/leaflet-challenge/).
 
 # Resources  
 - Dataset created by [the United States Geological Survey](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php).
